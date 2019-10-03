@@ -11,7 +11,7 @@
 ![right](./img/bowie.jpg)
 # Intro
 
-* Kas Perch
+* Kas Perch (they/their/them)
 * @nodebotanist
 * Developer Advocate @ Cloudflare
 * Robotics addict/author
@@ -217,6 +217,7 @@ We leveraged our existing network to run your code as physically close to your u
 * Use the same web technologies you've been using
 * Write functions in JS, Rust, and more and more WebAssembly-compatible languages over time
 * Robust web-based and CLI tooling with Wrangler
+* Creating ways to deploy common web apps to serverless with ease		
 
 ---
 ![](./img/Carina_Nebula.jpg)
@@ -235,7 +236,7 @@ Creating new serverless architectures from the ground up and allowing users to t
 
 # Want to learn more?
 
-![inline](./img/belgrade.png)
+![inline](./img/istanbul.png)
 
 ---
 ![](./img/Carina_Nebula.jpg)
@@ -246,7 +247,7 @@ Creating new serverless architectures from the ground up and allowing users to t
 
 * kas@cloudflare.com
 * @nodebotanist
-* github.com/nodebotanist/serverlessdays-belgrade-2019
+* github.com/nodebotanist/serverlessdays-istanbul-2019
 
 
 
